@@ -1,7 +1,7 @@
 name: Chris Walker Innerwealth
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6174607872962952
+typography_spectrum: 0.82952
 title: Making the Most Out of Life
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#b18878'
     - '#7e7831'
     - '#4a5314'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5075817515607923
   saturation: 0.5
   rhythmicContrast: 0.3565314926672727
