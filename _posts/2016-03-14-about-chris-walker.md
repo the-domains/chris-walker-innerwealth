@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.chriswalker.com.au'
-  name: BE INSPIRED WITH CHRIS WALKER
-  favicon: 'http://www.chriswalker.com.au/favicon.ico'
-  domain: www.chriswalker.com.au
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.chriswalker.com.au/masterclass.html'
+inLanguage: en
+starred: false
 keywords:
   - days
   - minutes
@@ -18,17 +17,20 @@ keywords:
   - phone
   - folder
 description: 'For each of the next 30 days you are going to learn something very special. Each day the focus changes. We move from inspiration to health, to environment, to self and values, to vision, purpose and self talk. In the learning each day, you get to spend as little as ten minutes or up to an hour if you have the time.'
-inLanguage: en
+datePublished: '2016-03-14T23:06:58.087Z'
+dateModified: '2016-03-14T23:06:31.882Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.chriswalker.com.au/masterclass.html'
 title: about chris walker
-datePublished: '2016-03-14T23:06:25.837Z'
-dateModified: '2016-03-14T23:05:44.506Z'
 sourcePath: _posts/2016-03-14-about-chris-walker.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: BE INSPIRED WITH CHRIS WALKER
+  domain: www.chriswalker.com.au
+  url: 'http://www.chriswalker.com.au'
+  favicon: 'http://www.chriswalker.com.au/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
