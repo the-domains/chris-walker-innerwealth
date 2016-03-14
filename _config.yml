@@ -1,0 +1,28 @@
+name: Chris Walker Innerwealth
+favicon: null
+layout_spectrum: 0.6571564236655831
+typography_spectrum: 0.6174607872962952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7483946830034256
+  lightness: 0.5075817515607923
+  saturation: 0.6634069937281311
+  rhythmicContrast: 0.3565314926672727
+purpose: []
