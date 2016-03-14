@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chris Walker Innerwealth]]></title>
+        <description><![CDATA[Chris Walker Innerwealth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 09:58:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's Happening In Your Life Today?]]></title>
+            <description><![CDATA[<article><h1>What's Happening In Your Life Today?</h1><p>If you listen to the pundits, you'll be going in the direction of the masses, always a bad omen for someone who wants a degree of self respect and also, wants to function with a cool head. I call this the helicopter mindset. Not too high to be irrelevant, not too low to be dopey. Just the right height to see with both eyes, and your heart, what's really going on?</p></article>]]></description>
+            <link>undefinedwhats-happening-in-your-life-today/index.html</link>
+            <guid isPermaLink="false">61526379-4b74-4d78-8f4f-ac055044f6b4</guid>
+            <pubDate>Mon, 14 Mar 2016 09:58:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
